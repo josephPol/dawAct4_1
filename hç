@@ -1,0 +1,47 @@
+[33mcommit c221b3ab942c01880dfe9a830df8011816e3572d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: josephPol <josephpoljak1@gmail.com>
+Date:   Thu Oct 16 12:55:38 2025 +0200
+
+    Delete .vscode directory
+
+[33mcommit d236235ea579267b963cadb70042b56d5d70c8cd[m
+Author: Joseph <josephpoljak1@gmail.com>
+Date:   Thu Oct 16 12:54:21 2025 +0200
+
+    definitivo gitignore
+
+[33mcommit d3506cd8bb12c74f9068920294d6f15c32d57bbc[m
+Author: Joseph <josephpoljak1@gmail.com>
+Date:   Thu Oct 16 12:18:22 2025 +0200
+
+    añado el index
+
+[33mcommit 513039ef31b250104fcf767dac7af9c2b3ad4a94[m
+Author: Joseph <josephpoljak1@gmail.com>
+Date:   Thu Oct 16 12:15:52 2025 +0200
+
+    muevo gitignore
+
+[33mcommit cf75ac223243cb0d4ed46af471c1288e3e799e05[m
+Author: Joseph <josephpoljak1@gmail.com>
+Date:   Thu Oct 16 12:15:13 2025 +0200
+
+    settings
+
+[33mcommit b4b20c870a2c9ddbde6d5692a65f82054555d292[m
+Author: Joseph <josephpoljak1@gmail.com>
+Date:   Thu Oct 16 12:14:28 2025 +0200
+
+    añado bien el gitignore
+
+[33mcommit 6fa013e3be9cfe454db058ede7c3d1a79c446a2a[m
+Author: Joseph <josephpoljak1@gmail.com>
+Date:   Thu Oct 16 12:01:51 2025 +0200
+
+    añadido gitignore
+
+[33mcommit 2a8a64c1ca05859708f282195631553476717a9d[m
+Author: josephPol <josephpoljak1@gmail.com>
+Date:   Thu Oct 16 11:40:00 2025 +0200
+
+    Initial commit
